@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Hanunoo&display=swap');
+
+h1{
+  text-align: center;
+  text-align:right;
+  text-align:left;
+}
+
+span{
+  background-color: red;
+  text-align:center;
+  text-align:right;
+   text-decoration:underline;
+   text-decoration:overline;
+   text-decoration:line-through;
+
+   font-weight:bold ;
+   font-weight: bolder;
+   font-weight:990px;
+
+  font-size: small;
+
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+  font-family: "Noto Sans Hanunoo", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+p{
+  
+  line-height: normal;
+  line-height: 50px;
+
+  text-transform: uppercase;
+  text-transform: lowercase;
+  text-transform: capitalize;
+  text-transform:none;
+}
+
+button{
+
+  padding: ;
+  padding-left: ;
+
+}
+  
+
+
