@@ -1,0 +1,26 @@
+nav{
+    border: 2px solid black;
+    padding:15px;
+    background-color: black;
+    color: white;
+}
+nav span{
+    margin: 85px;
+}
+
+#maintext{
+    color: orange;
+    font-size: 25px;
+
+}
+
+input{
+    padding: 4px;
+}
+
+button{
+    background-color: orange;
+    color: white;
+    padding: 4px;
+     border-radius: 5px;
+}
