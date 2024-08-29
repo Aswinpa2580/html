@@ -1,4 +1,21 @@
-.box{
+#box{
     background-color: black;
-    
+    height:60px;
+    border:10px solid white;
+    padding: 0%;
 }
+div span{
+    margin: 85px;
+}
+span{
+   background-color: black;
+   color: white;
+}
+button{
+background-color: yellow;
+}
+*{
+    background-color: blue;
+}
+#amazon{
+background-color:white;}
